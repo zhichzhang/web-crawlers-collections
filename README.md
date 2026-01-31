@@ -19,7 +19,7 @@ rank correlation.
 - JSON / CSV processing
 - I/O-bound search result collection pipeline
 
-### [News Site Crawler](https://github.com/zhichzhang/news-site-crawler)
+### [News Crawler](https://github.com/zhichzhang/NewsCrawler)
 A multi-threaded, domain-restricted crawler designed to ingest and analyze
 large-scale news websites, producing structured crawl logs and coverage
 analytics.
