@@ -1,0 +1,6 @@
+[submodule "SECmp"]
+	path = SECmp
+	url = https://github.com/zhichzhang/SECmp
+[submodule "NewsCrawler"]
+	path = NewsCrawler
+	url = https://github.com/zhichzhang/NewsCrawler
